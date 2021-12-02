@@ -1,3 +1,3 @@
 # hello-world
 my first repository
-add info about me
+add ifno about me
